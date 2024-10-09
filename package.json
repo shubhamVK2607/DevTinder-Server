@@ -1,0 +1,20 @@
+{
+  "name": "devtinder_be",
+  "version": "1.0.0",
+  "description": "This is BE for DevTinder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "javascript",
+    "Node",
+    "JS"
+  ],
+  "author": "Shubham Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
